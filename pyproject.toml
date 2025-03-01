@@ -1,0 +1,10 @@
+[project]
+name = "EpubToPdf"
+version = "0.0.1"
+requires-python = "~=3.9"
+dependencies = [
+  "beautifulsoup4==4.5.3",
+  "lxml==4.6.3",
+  "pdfkit==0.6.1",
+  "PyPDF2==1.26.0"
+]
